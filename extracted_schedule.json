@@ -1,0 +1,86 @@
+[
+  {
+    "code": "CS 114",
+    "subject": "Operating Systems",
+    "unit": {
+      "credit": "3.0",
+      "lecture": "2.0",
+      "lab": "1.0"
+    },
+    "class": "BSCS 3-A",
+    "days": "Sat",
+    "time": "08:00 AM-10:00 AM / 09:00 AM-12:00 PM",
+    "room": "CS-02-102",
+    "faculty": "CANON, M ,"
+  },
+  {
+    "code": "CS 115",
+    "subject": "Computer Architecture And Organization",
+    "unit": {
+      "credit": "3.0",
+      "lecture": "3.0",
+      "lab": "0.0"
+    },
+    "class": "BSCS 3-A",
+    "days": "",
+    "time": "05:30 PM-08:30 PM / 01:00 PM-03:00 PM",
+    "room": "CS-04-205",
+    "faculty": "Sotto, G"
+  },
+  {
+    "code": "CS 116",
+    "subject": "Automata Theory And Formal Languages",
+    "unit": {
+      "credit": "3.0",
+      "lecture": "3.0",
+      "lab": "0.0"
+    },
+    "class": "BSCS 3-A",
+    "days": "",
+    "time": "01:00 PM-04:00 PM / 01:00 PM-03:00 PM / 05:30 PM-08:30 PM",
+    "room": "CS-04-203",
+    "faculty": "Satuito, A"
+  },
+  {
+    "code": "CS 117",
+    "subject": "Software Engineering 1",
+    "unit": {
+      "credit": "3.0",
+      "lecture": "2.0",
+      "lab": "1.0"
+    },
+    "class": "BSCS 3-A",
+    "days": "F",
+    "time": "09:00 AM-12:00 PM / 01:00 PM-03:00 PM / 05:30 PM-08:30 PM / 04:00 PM-05:30 PM",
+    "room": "CS-02-101 / CS-02-201",
+    "faculty": "Maceda, L"
+  },
+  {
+    "code": "CS Elective",
+    "subject": "_— Artificial Intelligence",
+    "unit": {
+      "credit": "3.0",
+      "lecture": "3.0",
+      "lab": "0.0"
+    },
+    "class": "BSCS 3-A",
+    "days": "MW",
+    "time": "04:00 PM-05:30 PM / 01:00 PM-02:00 PM",
+    "room": "CS-02-201",
+    "faculty": "Sy, C"
+  },
+  {
+    "code": "GEC 16",
+    "subject": "Art Appreciation",
+    "unit": {
+      "credit": "3.0",
+      "lecture": "3.0",
+      "lab": "0.0"
+    },
+    "class": "BSCS 3-A",
+    "days": "Sat",
+    "time": "10:00 AM-12:00 PM / 01:00 PM-02:00 PM",
+    "room": "CAL-01-401",
+    "faculty": "Medalla, V"
+  }
+]
